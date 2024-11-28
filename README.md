@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there :D</h1>
+<h1 align="center">👋 Hello there! :D</h1>
 
 <p align="left"> 
 Olá, me chamo Lucas! 👨‍💻<br>
