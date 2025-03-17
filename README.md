@@ -1,9 +1,3 @@
-# Lucas Felix Santos
-
-## Desenvolvedor Java
-
----
-
 **Olá, eu me chamo Lucas Felix Santos!**
 
 Analista de TI | Formado em Sistemas de Informação
