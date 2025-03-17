@@ -23,7 +23,6 @@ Aqui estão alguns dos certificados que obtive:
   <img src="./assets/certificado_xperiun.jpg" width="250">
   <img src="./assets/certificado_redes.jpg" width="250">
   <br>
-  <img src="./assets/certificado_xperiun.jpg" width="250">
   <img src="./assets/certificado_logica.jpg" width="250">
 </p>
 
