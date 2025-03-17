@@ -1,33 +1,34 @@
-**Olá, eu me chamo Lucas Felix Santos!**
+<h1 align="center">Olá, eu me chamo Lucas Felix Santos!</h1>
 
-Analista de TI | Formado em Sistemas de Informação
-Sou um profissional apaixonado por tecnologia, com experiência em Suporte Técnico ao Usuário, Manutenção de Computadores, Infraestrutura de TI, Desenvolvimento de Software e Manutenção de Sistemas.
+## 🚀 Sobre mim
 
-- Objetivo profissional:
-Meu foco atual é evoluir minha carreira e me especializar em Java, aprofundando no aprendizado da linguagem e em suas principais tecnologias. Tenho como objetivo tornar-me um desenvolvedor altamente qualificado, me dedicando ao estudo contínuo e intensivo, construindo uma base sólida.
+Sou formado em **Sistemas de Informação** e tenho experiência em **Suporte Técnico ao Usuário, Manutenção de Computadores, Infraestrutura de TI, Desenvolvimento de Software e Manutenção de Sistemas**. Atualmente, estou focado no aprimoramento das minhas habilidades em **Java**, construindo uma base sólida para me tornar um desenvolvedor altamente qualificado.
 
-- O que me move?
-Acredito no potencial transformador da tecnologia e na força do Código Aberto como incentivo de inovação e colaboração. Estou sempre em busca de novas formas de aprender, crescer e contribuir para um mundo melhor por meio da tecnologia.
+## 🎯 Objetivo Profissional
+
+Meu objetivo é crescer como desenvolvedor Java, explorando profundamente a linguagem e suas principais tecnologias. Busco aprendizado contínuo, desafiando-me com projetos práticos e soluções inovadoras para fortalecer meu conhecimento.
+
+## 💡 O que me move?
+
+Acredito no impacto positivo da tecnologia na sociedade e no poder do **Código Aberto** para impulsionar inovação e colaboração. Estou sempre em busca de novos desafios, oportunidades de aprendizado e formas de contribuir para um mundo mais tecnológico e eficiente.
 
 ---
 
-### Certificados
+## 📜 Certificados
 
 Aqui estão alguns dos certificados que obtive:
 
 <p align="center">
-  <img src="C:\apresentacao\assets\certificado_java.jpg" width="250">
-  <img src="C:\apresentacao\assets\certificado_logica.jpg" width="250">
-  <img src="C:\apresentacao\assets\certificado_redes.jpg" width="250">
-</p>
-
-<p align="center">
-  <img src="C:\apresentacao\assets\certificado_xperiun.jpg" width="250">
+  <img src="./apresentacao/assets/certificado_java.jpg" width="250">
+  <img src="./apresentacao/assets/certificado_logica.jpg" width="250">
+  <img src="./apresentacao/assets/certificado_redes.jpg" width="250">
+  <br>
+  <img src="./apresentacao/assets/certificado_xperiun.jpg" width="250">
 </p>
 
 ---
 
-### Contatos
+## 📬 Entre em contato comigo
 
-- **Email:** Lucasfelixsantos2002@outlook.com
-- **LinkedIn:** www.linkedin.com/in/dalucasfelixsantos
+- **📧 Email:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
+- **💼 LinkedIn:** [linkedin.com/in/dalucasfelixsantos](https://www.linkedin.com/in/dalucasfelixsantos)
