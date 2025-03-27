@@ -21,19 +21,29 @@ Aqui estão alguns dos certificados que obtive:
 ## Certificados
 
 Aqui estão alguns dos certificados que obtive:
+## Certificados
 
-<p align="center">
-  <img src="./assets/certificado_java.jpg" width="250">
-</p>
-<p align="center">
-  <img src="./assets/certificado_xperiun.jpg" width="250">
-</p>
-<p align="center">
-  <img src="./assets/certificado_redes.jpg" width="250">
-</p>
-<p align="center">
-  <img src="./assets/certificado_logica.jpg" width="250">
-</p>
+Aqui estão alguns dos certificados que obtive:
+
+- **Java: O Guia Completo**  
+  <p align="center">
+    <img src="./assets/certificado_java.jpg" width="250">
+  </p>
+
+- **Xperiun**  
+  <p align="center">
+    <img src="./assets/certificado_xperiun.jpg" width="250">
+  </p>
+
+- **Redes de Computadores**  
+  <p align="center">
+    <img src="./assets/certificado_redes.jpg" width="250">
+  </p>
+
+- **Lógica de Programação**  
+  <p align="center">
+    <img src="./assets/certificado_logica.jpg" width="250">
+  </p>
 
 ---
 
