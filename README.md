@@ -18,13 +18,20 @@ O que me move é a iniciativa do **Código Aberto**. Acredito no poder do conhec
 
 Aqui estão alguns dos certificados que obtive:
 
+## Certificados
+
+Aqui estão alguns dos certificados que obtive:
+
 <p align="center">
   <img src="./assets/certificado_java.jpg" width="250">
-  <br>
+</p>
+<p align="center">
   <img src="./assets/certificado_xperiun.jpg" width="250">
-  <br>
+</p>
+<p align="center">
   <img src="./assets/certificado_redes.jpg" width="250">
-  <br>
+</p>
+<p align="center">
   <img src="./assets/certificado_logica.jpg" width="250">
 </p>
 
