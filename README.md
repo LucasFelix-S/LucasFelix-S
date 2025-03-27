@@ -24,7 +24,7 @@ Aqui estão alguns dos certificados que obtive:
   <img src="./assets/certificado_redes.jpg" width="250">
 </p>
 
-<p align="center">
+<p>
   <img src="./assets/certificado_logica.jpg" width="250">
 </p>
 
