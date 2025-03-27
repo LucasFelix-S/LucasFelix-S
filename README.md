@@ -25,7 +25,7 @@ Aqui estão alguns dos certificados que obtive:
 </p>
 
 <p>
-  <img src="./assets/certificado_logica.jpg" width="300">
+  <img src="./assets/certificado_logica.jpg" width="100">
 </p>
 
 ---
