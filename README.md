@@ -22,6 +22,9 @@ Aqui estão alguns dos certificados que obtive:
   <img src="./assets/certificado_java.jpg" width="250">
   <img src="./assets/certificado_xperiun.jpg" width="250">
   <img src="./assets/certificado_redes.jpg" width="250">
+</p>
+
+<p align="center">
   <img src="./assets/certificado_logica.jpg" width="250">
 </p>
 
@@ -29,5 +32,5 @@ Aqui estão alguns dos certificados que obtive:
 
 ## Entre em contato comigo
 
-- **📧 Email:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
+- **📧 E-mail:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
 - **💼 LinkedIn:** [linkedin.com/in/dalucasfelixsantos](https://www.linkedin.com/in/dalucasfelixsantos)
