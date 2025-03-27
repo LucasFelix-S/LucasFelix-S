@@ -17,9 +17,14 @@ O que me move é a iniciativa do **Código Aberto**. Acredito no poder do conhec
 ## Certificados
 
 Aqui estão alguns dos certificados que obtive:
-| <img src="assets/certificado_java.jpg" width="200"> | <img src="assets/certificado_xperiun.jpg" width="200"> | <img src="assets/certificado_redes.jpg" width="200"> | <img src="assets/certificado_logica.jpg" width="200">
-|:---:|:---:|:---:|
 
+| [![Certificado Java](assets/certificado_java.jpg)](assets/certificado_java.jpg) | [![Certificado Xperiun](assets/certificado_xperiun.jpg)](assets/certificado_xperiun.jpg) | [![Certificado Redes](assets/certificado_redes.jpg)](assets/certificado_redes.jpg) |
+|:---:|:---:|:---:|
+| **Java: Guia Completo** | **Xperiun** | **Redes de Computadores** |
+
+| [![Certificado Lógica](assets/certificado_logica.jpg)](assets/certificado_logica.jpg) |
+|:---:|
+| **Lógica de Programação** |
 ---
 
 ## Entre em contato comigo
