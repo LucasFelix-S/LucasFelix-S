@@ -26,16 +26,6 @@ Acredito no poder do **Código Aberto**, na força do conhecimento compartilhado
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- [🔧 Canivete Tech CLI](https://github.com/seuuser/canivete-tech)  
-  Ferramenta de linha de comando com funções úteis para técnicos de informática. Inclui diagnóstico de rede, info de IP, tempo de uso e muito mais.
-
-- [📋 Gerenciador de Tarefas TI](https://github.com/seuuser/tarefas-ti)  
-  Sistema CLI para criar, listar e organizar tarefas do setor de TI. Em breve com interface gráfica.
-
----
-
 ## 🏅 Certificados
 
 [![Java - Guia Completo](https://img.shields.io/badge/Certificado-Java%20Completo-orange?style=for-the-badge)](assets/certificado_java.jpg)
