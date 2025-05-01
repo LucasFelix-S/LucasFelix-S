@@ -1,8 +1,10 @@
-<h1 align="center">Olá, eu me chamo Lucas Felix Santos!</h1>
+<h1>👨‍💻 Olá! Sou Lucas Felix Santos</h1>
 
-## Sobre mim
+Bem-vindo ao meu GitHub!
 
-Sou formado em **Sistemas de Informação** e tenho experiência em **Suporte Técnico ao Usuário, Manutenção de Computadores, Infraestrutura de TI, Desenvolvimento de Software e Manutenção de Sistemas**. Sempre fui movido pela curiosidade e pelo desejo de entender como as coisas funcionam por trás dos bastidores. Foi assim que me apaixonei por programação, tecnologia e computadores. Busco me tornar um desenvolvedor Java com conhecimento extremamente aprofundado na linguagem e suas principais tecnologias. Meu foco está no aprendizado contínuo, aplicando conceitos por meio de projetos práticos para fortalecer minhas habilidades e me tornar um profissional altamente capacitado. O que me move é a iniciativa do **Código Aberto**. Acredito no poder do conhecimento compartilhado, na liberdade de aprender e na construção coletiva de soluções que impactam o mundo. Tecnologia, para mim, vai muito além de escrever código, é sobre transformar ideias em algo útil, acessível e disponível para todos.
+Sou formado em Sistemas de Informação, com experiência em Suporte Técnico, Infraestrutura de TI, Manutenção de Sistemas e Desenvolvimento de Software. A paixão por tecnologia nasceu da minha curiosidade em entender o que acontece nos bastidores. Hoje, busco me tornar um desenvolvedor Java com domínio profundo da linguagem e suas tecnologias.
+
+Acredito no poder do Código Aberto, na força do conhecimento compartilhado e no impacto da tecnologia como ferramenta de transformação. Estou sempre aprendendo, criando projetos práticos e evoluindo como profissional — porque para mim, programar é transformar ideias em soluções acessíveis e reais.
 
 ---
 
