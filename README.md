@@ -14,12 +14,10 @@ Acredito no poder do **Código Aberto**, na força do conhecimento compartilhado
 - Java (POO, Coleções, Streams)
 - Git & GitHub
 - Bash e Linux (CLI, scripts)
-- Power BI e análise de dados
 - Suporte técnico e infraestrutura
 
 ### Soft Skills
 - Resolução de problemas
-- Comunicação clara
 - Curiosidade e proatividade
 - Organização e foco
 - Trabalho em equipe
@@ -39,7 +37,6 @@ Acredito no poder do **Código Aberto**, na força do conhecimento compartilhado
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
