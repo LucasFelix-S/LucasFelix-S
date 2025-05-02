@@ -38,6 +38,7 @@ Acredito no poder do **Código Aberto**, na força do conhecimento compartilhado
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
