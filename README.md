@@ -13,7 +13,7 @@ Acredito no poder do **Código Aberto**, na força do conhecimento compartilhado
 ### Hard Skills
 - Java (POO, Coleções, Streams)
 - Git & GitHub
-- Bash e Linux (CLI, scripts)
+- SQL (SQL Server)
 - Suporte técnico e infraestrutura
 
 ### Soft Skills
