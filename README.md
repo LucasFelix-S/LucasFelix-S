@@ -4,8 +4,6 @@ Sou o Lucas, Analista de TI e desenvolvedor focado em Java, SQL (T-SQL) e análi
 
 ---
 
-### Skills
-
 ### Hard Skills
 - Java (POO, Swing, JDBC)
 - Git & GitHub
