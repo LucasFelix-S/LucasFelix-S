@@ -36,7 +36,7 @@ Sou o Lucas, Analista de TI e desenvolvedor focado em Java, SQL (T-SQL) e análi
 
 ---
 
-### Entre em contato comigo**
+### Entre em contato comigo
 
 - **Email:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
 - **LinkedIn:** [linkedin.com/in/dalucasfelixsantos](https://www.linkedin.com/in/dalucasfelixsantos)
