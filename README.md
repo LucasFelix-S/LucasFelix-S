@@ -17,14 +17,6 @@ Sou o Lucas, Analista de TI e desenvolvedor focado em Java, SQL (T-SQL) e análi
 - Trabalho em equipe
 
 ---
-
-### Ferramentas que uso
-
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
-![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
-
----
 ### Certificados
 
 [![Java - Guia Completo](https://img.shields.io/badge/Certificado-Java%20Completo-orange?style=for-the-badge)](assets/certificado_java.jpg)
@@ -38,7 +30,3 @@ Sou o Lucas, Analista de TI e desenvolvedor focado em Java, SQL (T-SQL) e análi
 
 - **Email:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
 - **LinkedIn:** [linkedin.com/in/dalucasfelixsantos](https://www.linkedin.com/in/dalucasfelixsantos)
-
----
-
-![Visitas no perfil](https://komarev.com/ghpvc/?username=LucasFelix-S&color=blue)
