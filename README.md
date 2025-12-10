@@ -1,4 +1,4 @@
-<h1>Olá! Bem-vindo ao meu GitHub!</h1>
+<h1>Olá! Bem-vindo ao meu perfil!</h1>
 
 Sou o Lucas, Analista de TI e desenvolvedor focado em Java, SQL (T-SQL) e análise/implantação de sistemas. No dia a dia, trabalho com manipulação, extração e validação de dados em ambientes de produção usando T-SQL. Também desenvolvo scripts e pequenos sistemas em Java para automatizar rotinas e otimizar fluxos operacionais. Já atuei na implantação de sistemas ERP e WMS, onde evoluí bastante em integrações, análise técnica e solução de problemas reais em produção. Atualmente, estudo Java e SQL todos os dias, com o objetivo de me tornar um desenvolvedor cada vez mais completo e construir projetos que realmente resolvam problemas.
 
