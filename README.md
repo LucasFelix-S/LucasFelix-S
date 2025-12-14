@@ -28,9 +28,3 @@ Desenvolvedor focado em **Java** e **T‑SQL**.
 
 - **Email:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
 - **LinkedIn:** [linkedin.com/in/dalucasfelixsantos](https://www.linkedin.com/in/dalucasfelixsantos)
-
-<div>
-<a href="https://github.com/LucasFelix-S">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelix-S&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFelix-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
