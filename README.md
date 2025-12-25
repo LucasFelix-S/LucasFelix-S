@@ -3,16 +3,12 @@
 Desenvolvedor focado em **Java** e **T‑SQL**.
 
 ---
-## Stack principal
-
-- **Java** (POO, JDBC, Swing)
-- **T‑SQL** (SQL Server, consultas, joins, views, procedures)
-- **Git** (versionamento limpo, commits objetivos)
-
-## O que você vai encontrar aqui
-
-- Projetos em Java com foco em lógica e estrutura
-- Estudos e práticas em SQL Server / T‑SQL
+## Tecnologias
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60"/>
+</p>
 
 ---
 ### Certificados
@@ -26,5 +22,6 @@ Desenvolvedor focado em **Java** e **T‑SQL**.
 
 ### Entre em contato comigo
 
-- **Email:** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)  
+- **Email (Outlook):** [lucasfelixsantos2002@outlook.com](mailto:lucasfelixsantos2002@outlook.com)
+- **Email (Gmail):** [started.lucasfelixsantos@gmail.com](mailto:started.lucasfelixsantos@gmail.com)
 - **LinkedIn:** [linkedin.com/in/dalucasfelixsantos](https://www.linkedin.com/in/dalucasfelixsantos)
