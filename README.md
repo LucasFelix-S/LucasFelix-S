@@ -3,14 +3,6 @@
 Desenvolvedor focado em **Java** e **T‑SQL**.
 
 ---
-## Tecnologias
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60"/>
-</p>
-
----
 ### Certificados
 
 [![Java - Guia Completo](https://img.shields.io/badge/Certificado-Java%20Completo-grey?style=for-the-badge)](assets/certificado_java.jpg)
