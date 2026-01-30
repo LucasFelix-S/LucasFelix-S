@@ -13,6 +13,9 @@ Desenvolvedor Java Jr | SQL (T-SQL) | Analista de Sistemas
   <img src="https://img.shields.io/badge/Linux-E34F26?style=plastic&logo=linux&logoColor=black" height="18"/>
 </p>
 
+> Trabalho com Java e bancos de dados relacionais, criando soluções simples e aprendendo no caminho.
+
+
 ---
 
 ### Entre em contato comigo
