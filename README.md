@@ -18,16 +18,15 @@ Desenvolvedor Java Jr | SQL (T-SQL) | Analista de Sistemas
 ### Entre em contato comigo
 
 <p align="left">
-  <a href="mailto:lucasfelixsantos2002@outlook.com">
+  <a href="mailto:lucasfelixsantos2002@outlook.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" height="18"/>
   </a>
 
-  <a href="mailto:started.lucasfelixsantos@gmail.com">
+  <a href="mailto:started.lucasfelixsantos@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="18"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/dalucasfelixsantos" target="_blank">
+  <a href="https://www.linkedin.com/in/dalucasfelixsantos" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="18"/>
   </a>
 </p>
-
