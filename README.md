@@ -15,14 +15,11 @@ Desenvolvedor Java Jr | SQL (T-SQL) | Analista de Sistemas
 
 > Trabalho com Java e bancos de dados relacionais, criando soluções simples e aprendendo no caminho.
 
-
 ---
 ### Projetos
 
 - 🗺️ [ProjetoFacilitador](https://github.com/LucasFelix-S/ProjetoFacilitador) – GUI para agilizar lançamentos de produtos via arquivos de texto.
 - 🖥️ [ProjetoCep](https://github.com/LucasFelix-S/ProjetoCep) – Consumo de API de CEP com persistência em banco de dados local.
-- ⚙️ [ProjetoOpenUtilityPack](https://github.com/LucasFelix-S/ProjetoOpenUtilityPack) – Pacote de utilidades criado para acelerar o desenvolvimento em Java.
-
 
 ### Entre em contato comigo
 
