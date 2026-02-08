@@ -12,8 +12,7 @@ Desenvolvedor Java Jr | Back-end | SQL (T-SQL) | Analista de Sistemas
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" height="18"/>
 </p>
 
-> Desenvolvedor Java focado em back-end, com experiência em consumo de APIs REST, persistência de dados e organização de código.  
-> Atualmente em evolução contínua em engenharia de software e boas práticas.
+> Desenvolvedor Java focado em back-end, com experiência em consumo de APIs REST, persistência de dados e organização de código. Atualmente em evolução contínua em engenharia de software e boas práticas.
 
 ---
 ### Projetos
