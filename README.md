@@ -25,6 +25,11 @@ Desenvolvedor Java Back-end | APIs REST | SQL | Spring Boot
   Aplicação Java para consumo da API ViaCEP com persistência de dados em banco local via JDBC.
 
 ---
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+---
 ### Entre em contato comigo
 
 <p align="left">
