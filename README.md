@@ -1,6 +1,6 @@
 # Lucas Felix Santos
 
-Desenvolvedor Java Jr | Back-end | SQL (T-SQL) | Analista de Sistemas
+Desenvolvedor Java Back-end | APIs REST | SQL | Spring Boot
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" height="18"/>
@@ -12,7 +12,8 @@ Desenvolvedor Java Jr | Back-end | SQL (T-SQL) | Analista de Sistemas
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" height="18"/>
 </p>
 
-> Desenvolvedor Java focado em back-end, com experiência em consumo de APIs REST, persistência de dados e organização de código. Atualmente em evolução contínua em engenharia de software e boas práticas.
+> Desenvolvedor focado na construção de APIs REST com Java e Spring Boot. Experiência com persistência de dados, organização de camadas (Controller, Service, Repository) e aplicação de boas práticas como validações, tratamento de exceções e versionamento estruturado. Atualmente aprofundando conhecimentos em Engenharia de Software e boas práticas de arquitetura.
+
 
 ---
 ### Projetos
