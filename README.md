@@ -27,7 +27,7 @@ Desenvolvedor Java Back-end | APIs REST | SQL | Spring Boot
 ---
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFelix-S&show_icons=true&theme=dark)
 
 ---
 ### Entre em contato comigo
