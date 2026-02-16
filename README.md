@@ -14,7 +14,6 @@ Desenvolvedor Java Back-end | APIs REST | SQL | Spring Boot
 
 > Desenvolvedor focado na construção de APIs REST com Java e Spring Boot. Experiência com persistência de dados, organização de camadas (Controller, Service, Repository) e aplicação de boas práticas como validações, tratamento de exceções e versionamento estruturado. Atualmente aprofundando conhecimentos em Engenharia de Software e boas práticas de arquitetura.
 
-
 ---
 ### Projetos
 
@@ -23,12 +22,6 @@ Desenvolvedor Java Back-end | APIs REST | SQL | Spring Boot
 
 - 🖥️ **[ProjetoCep](https://github.com/LucasFelix-S/ProjetoCep)**  
   Aplicação Java para consumo da API ViaCEP com persistência de dados em banco local via JDBC.
-
----
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFelix-S&show_icons=true&theme=radical)
-
 
 ---
 ### Entre em contato comigo
