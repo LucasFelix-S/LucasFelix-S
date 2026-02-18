@@ -17,10 +17,10 @@ Desenvolvedor Java Back-end | APIs REST | SQL | Spring Boot
 ---
 ### Projetos
 
-- 🗺️ **[ProjetoFacilitador](https://github.com/LucasFelix-S/ProjetoFacilitador)**  
+- 🖥️ **[ProjetoFacilitador](https://github.com/LucasFelix-S/ProjetoFacilitador)**  
   Sistema desktop em Java para agilizar lançamentos de produtos a partir de arquivos CSV.
 
-- 🖥️ **[ProjetoCep](https://github.com/LucasFelix-S/ProjetoCep)**  
+- 🗺️ **[ProjetoCep](https://github.com/LucasFelix-S/ProjetoCep)**  
   Aplicação Java para consumo da API ViaCEP com persistência de dados em banco local via JDBC.
 
 ---
