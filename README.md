@@ -16,7 +16,7 @@
 
 Desenvolvedor Back-end com foco em **Java** e **Spring Boot**, especializado na construção de APIs REST robustas, modelagem de banco de dados relacional e arquitetura em camadas (Controller, Service, Repository).
 
-Atualmente aprofundando conhecimentos em **Engenharia de Software**, boas práticas de arquitetura e design de sistemas — com o objetivo de evoluir para o papel de **Tech Lead e Maintainer** em projetos de médio e grande porte.
+Atualmente aprofundando conhecimentos em **Engenharia de Software**, boas práticas de arquitetura e design de sistemas com o objetivo de evoluir para o papel de **Tech Lead e Maintainer** em projetos de médio e grande porte no futuro.
 
 ---
 
