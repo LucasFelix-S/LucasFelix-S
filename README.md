@@ -20,16 +20,7 @@ Atualmente aprofundando conhecimentos em **Engenharia de Software**, boas práti
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📦 [Chronos LBM — WMS](https://github.com/LucasFelix-S/chronos-lbm-service)
-> Sistema de gerenciamento de armazém (Warehouse Management System) open-source, desenvolvido com Java e Spring Boot.  
-> Contempla controle de produtos, categorias, lotes, estrutura física do armazém (zonas, setores, locais) e movimentações de estoque.  
-> Licenciado sob **Apache 2.0** — contribuições são bem-vindas.
-
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Maven`
-
----
+## 🚀 Projetos
 
 ### 🖥️ [ProjetoFacilitador](https://github.com/LucasFelix-S/ProjetoFacilitador)
 > Sistema desktop em Java para agilizar lançamentos de produtos a partir de arquivos CSV.
