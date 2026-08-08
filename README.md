@@ -18,7 +18,8 @@ Desenvolvedor Back-end e Analista de Sistemas com experiência em desenvolviment
 
 Atualmente trabalho com Java, Spring Framework, SQL Server (T-SQL), estruturas JSON e integrações entre Linx Itec, PROCFIT e Protheus, desenvolvendo soluções que automatizam processos e garantem a consistência de dados entre diferentes sistemas.
 
-Tenho interesse especial por Engenharia de Software, arquitetura de sistemas, bancos de dados relacionais e desenvolvimento Back-end.
+Tenho interesse especial por Engenharia de Software, arquitetura de sistemas, infraestrutura Linux e cultura DevOps, aprofundando meus estudos em Docker, automação, integração contínua e práticas modernas de entrega de software.
+
 
 ---
 
