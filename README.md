@@ -1,8 +1,8 @@
-# Lucas Felix Santos
+# Lucas Felix Santos 
 
-**Engenharia de Dados**
+## Engenharia de Dados
 
----
+Construindo soluções para integração, transformação e organização de dados, com foco em confiabilidade, qualidade e eficiência operacional.
 
 ## 01 / Perfil
 
