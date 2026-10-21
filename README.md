@@ -1,70 +1,91 @@
 # Lucas Felix Santos
 
-### Engenharia de Dados
-
-Formado em Sistemas de Informação, atuo com tecnologia e direciono minha carreira para Engenharia de Dados.
-
-Tenho experiência com SQL, ETL, modelagem e análise de dados. Atualmente, aprofundo meus conhecimentos em Python, orquestração de pipelines e arquitetura de dados, desenvolvendo projetos práticos voltados à integração, transformação e armazenamento de dados.
+**Engenharia de Dados**
 
 ---
 
-### Stack técnica
+## 01 / Perfil
 
-<p>
-  <strong>Linguagens</strong><br>
-  <img src="https://skillicons.dev/icons?i=python" height="38" alt="Python">
-  <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="PostgreSQL">
-</p>
+Sou formado em Sistemas de Informação e atuo com tecnologia desde 2024. Minha experiência envolve SQL, processos ETL, modelagem de dados, automação de pipelines e construção de soluções analíticas.
 
-<p>
-  <strong>Engenharia de Dados</strong><br>
-  <a href="https://hop.apache.org/"><img src="https://img.shields.io/badge/Apache%20Hop-1F2937?style=flat&logo=apache&logoColor=white" alt="Apache Hop"></a>
-  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache%20Airflow-1F2937?style=flat&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-1F2937?style=flat&logo=pandas&logoColor=150458" alt="Pandas"></a>
-</p>
+Atualmente, direciono meu desenvolvimento profissional para Engenharia de Dados, aprofundando conhecimentos em Python, bancos de dados, processamento e orquestração de pipelines por meio de projetos práticos.
 
-<p>
-  <strong>Bancos de Dados</strong><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="38" alt="PostgreSQL e MySQL">
-  <a href="https://clickhouse.com/"><img src="https://img.shields.io/badge/ClickHouse-1F2937?style=flat&logo=clickhouse&logoColor=FFCC01" alt="ClickHouse"></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/SQL%20Server-1F2937?style=flat&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server"></a>
-</p>
+## 02 / Stack técnica
 
-<p>
-  <strong>Business Intelligence</strong><br>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-1F2937?style=flat&logo=powerbi&logoColor=F2C811" alt="Power BI"></a>
-</p>
+<table>
+  <tr>
+    <td><strong>Linguagens</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="34" alt="Python" title="Python">
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="34" alt="Java" title="Java">
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="34" alt="SQL Server" title="SQL Server">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Engenharia de Dados</strong></td>
+    <td>
+      <a href="https://hop.apache.org/">Apache Hop</a> ·
+      <a href="https://airflow.apache.org/">Apache Airflow</a> ·
+      <a href="https://pandas.pydata.org/">Pandas</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bancos de dados</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL">
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" height="34" alt="ClickHouse" title="ClickHouse">
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="34" alt="Microsoft SQL Server" title="Microsoft SQL Server">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Analytics</strong></td>
+    <td>
+      <a href="https://powerbi.microsoft.com/">Power BI</a> ·
+      Power Query · DAX
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Versionamento</strong></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="34" alt="Git" title="Git">
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="34" alt="GitHub" title="GitHub">
+    </td>
+  </tr>
+</table>
+
+## 03 / Projetos selecionados
+
+### [Logistics Data Platform](https://github.com/LucasFelix-S/logistics-data-platform)
+
+Plataforma de dados voltada ao domínio logístico, com foco na integração de fontes, estruturação de dados e construção de processos de carga.
+
+**Foco técnico:** pipelines de dados · SQL · modelagem · cargas incrementais.
+
+### ETL com Apache Hop
+
+Projeto de integração e transformação de dados utilizando o dataset público da Olist, com foco na organização dos fluxos de processamento e preparação de dados para análise.
+
+**Foco técnico:** Apache Hop · ETL · orquestração · armazenamento analítico.
+
+## 04 / Princípios de engenharia
+
+- **Integridade:** dados consistentes em todas as etapas.
+- **Automação:** processos repetitivos devem ser executados por sistemas.
+- **Rastreabilidade:** cargas e transformações precisam ser compreensíveis.
+- **Resiliência:** falhas devem ser previstas e tratadas.
+- **Simplicidade:** complexidade técnica deve resolver problemas reais.
 
 ---
 
-### Projetos
+## Contato
 
-**[logistics-data-platform](https://github.com/LucasFelix-S/logistics-data-platform)**
-
-Projeto de Engenharia de Dados voltado à estruturação de uma plataforma de dados logísticos, com foco em integração de fontes, processamento e organização dos dados.
-
-**etl-apache-hop**
-
-Projeto prático de extração, transformação e carga utilizando o dataset público da Olist, com foco em pipelines organizados, orquestração de fluxos e armazenamento analítico.
-
----
-
-### Princípios de engenharia
-
-- Integridade dos dados acima de conveniências.
-- Automação de processos repetitivos.
-- Qualidade incorporada ao pipeline.
-- Falhas tratadas de forma controlada.
-- Simplicidade, rastreabilidade e manutenção.
-
----
-
-### Contato
-
-<a href="https://www.linkedin.com/in/dalucasfelixsantos/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:lucasfelixsantos2002@outlook.com"><img src="https://img.shields.io/badge/Email-Contato-555555?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-
----
+[LinkedIn](https://www.linkedin.com/in/dalucasfelixsantos/) ·
+[Email](mailto:lucasfelixsantos2002@outlook.com)
 
 <p align="center">
   <sub>Precisão · Confiabilidade · Evolução contínua</sub>
