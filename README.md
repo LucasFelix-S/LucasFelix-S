@@ -66,7 +66,7 @@ Plataforma de dados voltada ao domínio logístico, com foco na integração de 
 
 **Foco técnico:** pipelines de dados · SQL · modelagem · cargas incrementais.
 
-### ETL com Apache Hop
+### [ETL com Apache Hop (Retail Data Pipeline)](https://github.com/LucasFelix-S/retail-data-pipeline)
 
 Projeto de integração e transformação de dados utilizando o dataset público da Olist, com foco na organização dos fluxos de processamento e preparação de dados para análise.
 
